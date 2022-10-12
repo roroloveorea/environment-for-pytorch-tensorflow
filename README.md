@@ -17,7 +17,7 @@
       <li>OR include requirement.txt in docker file</li>
   </ul></li>
   <li>To change CUDA version<ul>
-      <li>GOTO https://hub.docker.com/r/nvidia/cuda/ to find a compatiable image</li>
+      <li>GOTO https://hub.docker.com/r/nvidia/cuda/ to find a compatible base image</li>
   </ul></li>
 </ol>
 
